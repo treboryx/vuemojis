@@ -61,11 +61,11 @@ createApp(App).use(Vuemojis, { name: "custom-component-name" }).mount("#app");
 
 Robert (@treboryx) - me!
 
-https://github.com/iamcal/emoji-data - Emoji assets
-https://github.com/googlefonts/noto-emoji - Noto Emoji
-https://github.com/twitter/twemoji - Twemoji
-https://github.com/joypixels/emoji-assets - JoyPixels
-https://www.jsdelivr.com/ - CDN
+- https://github.com/iamcal/emoji-data - Emoji assets
+- https://github.com/googlefonts/noto-emoji - Noto Emoji
+- https://github.com/twitter/twemoji - Twemoji
+- https://github.com/joypixels/emoji-assets - JoyPixels
+- https://www.jsdelivr.com/ - CDN
 
 ## License
 
