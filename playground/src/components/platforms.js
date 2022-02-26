@@ -1,0 +1,18 @@
+export default [
+  "apple",
+  "au-kddi",
+  "docomo",
+  "emojidex",
+  "facebook",
+  "google",
+  "htc",
+  "joypixels",
+  "lg",
+  "microsoft",
+  "mozilla",
+  "openmoji",
+  "samsung",
+  "softbank",
+  "twitter",
+  "whatsapp",
+];
