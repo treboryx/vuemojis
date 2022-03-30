@@ -1,5 +1,7 @@
 # Vuemojis
 
+[![NPM](https://nodei.co/npm/vuemojis.png)](https://nodei.co/npm/vuemojis/)
+
 Vuemojis is a simple to use component for Emojis within vue. Currently it supports the following platforms: Twitter, Google, Apple & Facebook.
 
 ## Installation
